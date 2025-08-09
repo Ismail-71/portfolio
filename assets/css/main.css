@@ -2448,7 +2448,7 @@ ul.icons.major li {
 	padding-right: 3.5em;
 }
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 600px) {
 
 	ul.icons.major li {
 		padding: 0 1em !important;

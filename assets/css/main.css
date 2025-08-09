@@ -2182,7 +2182,7 @@ input[type="radio"]+label:before {
 	height: calc(3em + 2px);
 	line-height: 3em;
 	text-align: center;
-	width: calc(3em + 2px);
+	width: calc(2em + 2px);
 }
 
 .icon.major:before {
